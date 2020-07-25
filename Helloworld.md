@@ -2,7 +2,7 @@
 title: "Helloworld.md"
 author: "Milind P Kshirsagar"
 date: "July 25, 2020"
-output: pdf_document
+output: word_document
 ---
 ```{r}
 ## This is a markdown file
